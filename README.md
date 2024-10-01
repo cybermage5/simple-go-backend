@@ -4,16 +4,9 @@
 
 I am no longer maintaining this project. As an alternative consider checking out [pocketbase](https://github.com/pocketbase/pocketbase).
 
-[![GoDoc](https://godoc.org/github.com/uberswe/golang-base-project?status.svg)](https://godoc.org/github.com/uberswe/golang-base-project)
+[![GoDoc](https://godoc.org/github.com/cybermage5/simple-go-backend)](https://godoc.org/github.com/cybermage5/simple-go-backend)
 
 A minimal Golang project with user authentication ready out of the box. All frontend assets should be less than 100 kB on every page load. 
-
-See a live example at: [https://www.golangbase.com](https://www.golangbase.com)
-
-Projects that used this template as a starting point:
- 
- - [tournify/web](https://github.com/tournify/web) - A website for creating tournaments
- - [uberswe/domains-sweden](https://github.com/uberswe/domains-sweden) - Search all of Sweden's .SE and .NU domains
 
 Functionality includes:
 
@@ -177,13 +170,13 @@ To update languages first run `goi18n extract` to update `active.en.toml`. Then 
 
 ## Documentation
 
-See [GoDoc](https://godoc.org/github.com/uberswe/golang-base-project) for further documentation.
+See [GoDoc](https://godoc.org/github.com/cybermage5/simple-go-backend) for further documentation.
 
 ## Contributions
 
-Contributions are welcome and greatly appreciated. Please note that I am not looking to add any more features to this project but I am happy to take care of bugfixes, updates and other suggestions. If you have a question or suggestion please feel free to [open an issue](https://github.com/uberswe/golang-base-project/issues/new). To contribute code, please fork this repository, make your changes on a separate branch and then [open a pull request](https://github.com/uberswe/golang-base-project/compare).
+Contributions are welcome and greatly appreciated. Please note that I am not looking to add any more features to this project but I am happy to take care of bugfixes, updates and other suggestions. If you have a question or suggestion please feel free to [open an issue](https://github.com/cybermage5/simple-go-backend/issues/new). To contribute code, please fork this repository, make your changes on a separate branch and then [open a pull request](https://github.com/cybermage5/simple-go-backend/compare).
 
-For security related issues please see my profile, [@uberswe](https://github.com/uberswe), for ways of contacting me privately. 
+For security related issues please see my profile, [@uberswe](https://github.com/cybermage5), for ways of contacting me privately. 
 
 ## License
 
