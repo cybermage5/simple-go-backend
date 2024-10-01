@@ -1,4 +1,4 @@
-module github.com/uberswe/golang-base-project
+module github.com/cybermage5/simple-go-backend
 
 go 1.16
 

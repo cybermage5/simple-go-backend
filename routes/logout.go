@@ -3,7 +3,7 @@ package routes
 import (
 	"github.com/gin-contrib/sessions"
 	"github.com/gin-gonic/gin"
-	"github.com/uberswe/golang-base-project/middleware"
+	"github.com/cybermage5/simple-go-backend/middleware"
 	"log"
 	"net/http"
 )

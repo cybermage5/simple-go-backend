@@ -1,4 +1,4 @@
-// Package baseproject is the main package of the golang-base-project which defines all routes and database connections and settings, the glue to the entire application
+// Package baseproject is the main package of the simple-go-backend which defines all routes and database connections and settings, the glue to the entire application
 package baseproject
 
 import (

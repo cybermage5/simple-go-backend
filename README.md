@@ -176,7 +176,7 @@ See [GoDoc](https://godoc.org/github.com/cybermage5/simple-go-backend) for furth
 
 Contributions are welcome and greatly appreciated. Please note that I am not looking to add any more features to this project but I am happy to take care of bugfixes, updates and other suggestions. If you have a question or suggestion please feel free to [open an issue](https://github.com/cybermage5/simple-go-backend/issues/new). To contribute code, please fork this repository, make your changes on a separate branch and then [open a pull request](https://github.com/cybermage5/simple-go-backend/compare).
 
-For security related issues please see my profile, [@uberswe](https://github.com/cybermage5), for ways of contacting me privately. 
+For security related issues please see my profile, [@cybermage5](https://github.com/cybermage5), for ways of contacting me privately. 
 
 ## License
 

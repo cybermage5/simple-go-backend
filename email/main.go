@@ -4,20 +4,20 @@ package email
 import (
 	"bytes"
 	"fmt"
-	"github.com/uberswe/golang-base-project/config"
-	"github.com/uberswe/golang-base-project/text"
+	"github.com/cybermage5/simple-go-backend/config"
+	"github.com/cybermage5/simple-go-backend/text"
 	"log"
 	"mime/multipart"
 	"net/smtp"
 	"strings"
 )
 
-// Service holds a golang-base-project config.Config and provides functions to send emails
+// Service holds a simple-go-backend config.Config and provides functions to send emails
 type Service struct {
 	Config config.Config
 }
 
-// New takes a golang-base-project config.Config and returns an instance of Service
+// New takes a simple-go-backend config.Config and returns an instance of Service
 func New(c config.Config) Service {
 	return Service{
 		Config: c,

@@ -11,9 +11,9 @@ services:
       MYSQL_PASSWORD: base_project
     ports:
       - "3306:3306"
-  golang-base-project:
+  simple-go-backend:
     build: .
-    container_name: golang-base-project
+    container_name: simple-go-backend
     environment:
       - PORT=:80
       - BASE_URL=http://localhost:8080

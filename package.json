@@ -1,5 +1,5 @@
 {
-  "name": "golang-base-project",
+  "name": "simple-go-backend",
   "version": "1.0.0",
   "description": "A base project with a Golang backend ready to handle user authentication.",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Markus Tenghamn (https://github.com/uberswe) m@rkus.io",
+  "author": "Markus Tenghamn (https://github.com/cybermage5) m@rkus.io",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.0",

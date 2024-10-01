@@ -2,8 +2,8 @@ package baseproject
 
 import (
 	"fmt"
-	"github.com/uberswe/golang-base-project/config"
-	"github.com/uberswe/golang-base-project/models"
+	"github.com/cybermage5/simple-go-backend/config"
+	"github.com/cybermage5/simple-go-backend/models"
 	"gorm.io/driver/mysql"
 	"gorm.io/driver/postgres"
 	"gorm.io/driver/sqlite"
@@ -72,9 +72,9 @@ func seed(db *gorm.DB) {
 			URL:         "https://go.dev/learn/",
 		},
 		{
-			Title:       "Uberswe on Github",
+			Title:       "cybermage5 on Github",
 			Description: "I am the creator of Golang Base Project. This is my Github profile.",
-			URL:         "https://github.com/uberswe",
+			URL:         "https://github.com/cybermage5",
 		},
 		{
 			Title:       "Tournify",
